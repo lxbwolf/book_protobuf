@@ -5,7 +5,7 @@
 * [Deveolper Guide](deveolper-guide.md)
   * [Language Guide\(proto3\)](deveolper-guide/language-guideproto3.md)
   * [Style Guide](deveolper-guide/style-guide.md)
-  * Encoding
+  * [Encoding](deveolper-guide/encoding.md)
   * Techniques
   * Add-ons
 * [Tutorials](tutorials.md)
