@@ -9,6 +9,6 @@
   * [Techniques](deveolper-guide/techniques.md)
   * Add-ons
 * [Tutorials](tutorials.md)
-  * Basic: C++
+  * [Basic: C++](tutorials/basic-c++.md)
 * References
 
